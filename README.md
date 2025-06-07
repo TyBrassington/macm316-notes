@@ -66,4 +66,5 @@ Quick overview of what’s in the vault:
 
 ## 🗒️ Note
 - These are just personal notes, so no guarantees they’re perfect and/or complete
-- Please try to not overshare these notes with others
+- Made these notes public mainly for my friends taking the class but I don't mind if you share them with others
+- Feel free to reach out if you don't fully understand the concepts and need help. I am happy to explain them :)
